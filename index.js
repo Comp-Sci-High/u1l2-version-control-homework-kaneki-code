@@ -1,7 +1,7 @@
 // Version Control Assessment
 // 1. Explain what version control is.
 // Write your answer as a string and store it in the variable below:
-let versionControlExplanation = "";
+let versionControlExplanation = "version controle is the concept of checkpointing. People are saving hostory by using the terminal to create check points, or controle how many versions there are of one code and what happend that wasc new to each version  ";
 
 console.log("What is version control?");
 console.log(versionControlExplanation); 
